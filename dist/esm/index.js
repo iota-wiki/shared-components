@@ -1,3 +1,3 @@
 import CodeExampleToSnippet from "./components/CodeExampleToSnippet";
 export { CodeExampleToSnippet };
-//# sourceMappingURL=index.js.map;
+//# sourceMappingURL=index.js.map
