@@ -1,0 +1,11 @@
+{
+  "transform": {
+    "\\.[jt]sx?$": "babel-jest"
+  },
+  "transformIgnorePatterns": [
+    "node_modules/(?!(jest-)?react-native|@react-native-community|@docusaurus)"
+  ],
+  "testRegex": "(/tests/.*|(\\.|/)(test|spec))\\.(jsx?|tsx?)$",
+  "moduleFileExtensions": ["ts", "tsx", "js", "jsx", "json", "node"],
+  "testEnvironment": "jsdom"
+}
